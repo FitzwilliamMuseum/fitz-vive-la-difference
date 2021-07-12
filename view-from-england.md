@@ -19,7 +19,7 @@ In the 1790s Gillray picks up the simian qualities of the older representations 
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
         <a href="{{site.baseurl}}{{ author.permalink }}" class="stretched-link">
-          <img class="card-img-top" src="{{site.baseurl}}{{author.image | replace: "large", "thumbnails" }}" alt="Card image cap" width="300" height="300"/>
+          <img class="card-img-top" src="{{site.baseurl}}{{author.image | replace: "images/", "images/thumbnails/" }}" alt="Card image cap" width="300" height="300"/>
         </a>
         <div class="card-body">
           <h3 class="lead mt-2">
