@@ -40,7 +40,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-mentions
-
+google_analytics: 'G-2R0YLY9DRS'
 collections:
    explore:
       output: true
