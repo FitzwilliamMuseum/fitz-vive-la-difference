@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'Vive la différence!'
+permalink: /
 ---
 The relationship between England and France during this time period was complex. There was a great deal of travel and cross-cultural influence, which would often manifest itself in the emulation of concepts or qualities of the other's culture. There was also a great deal of enmity. The two countries were rivals in economic, colonial, constitutional and religious ways, and they were at war for much of the 18th century, continuing into the 19th century. The differences which were celebrated by some were seen in times of stress as a threat to each side's value system. The satires in this exhibition demonstrate how the portrayal of national stereotypes was affected by the fluctuating political climate of the eighteenth and early nineteenth centuries.
 

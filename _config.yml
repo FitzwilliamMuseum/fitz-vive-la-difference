@@ -48,6 +48,8 @@ collections:
       output: true
    france:
       output: true
+   content:
+      output: true
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"
