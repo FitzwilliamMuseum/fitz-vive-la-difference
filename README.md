@@ -1,13 +1,13 @@
-# Template Jekyll - Fitzwilliam
+# Vive la difference: Fitzwilliam
 
-Holding webpages for a forthcoming exhibition or online gallery archives.
+This online exhibition has been mounted to complement the Fitzwilliam’s display Vive la différence! The English and French stereotype in satirical prints 1720-1815, Tuesday 20 March 2007 to Sunday 5 August 2007
 
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
 * Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Clone the code for this repository:
-   `git clone https://github.com/FitzwilliamMuseum/fitz-jekyll-Template.git reponame`
+   `git clone https://github.com/FitzwilliamMuseum/fitz-vive-la-difference.git reponame`
 * Install the gems
    `bundle install`
 * Change to the directory and then run this command in terminal `bundle exec jekyll serve`
@@ -23,4 +23,4 @@ GPL V3 for code, CC-BY-NC-SA-ND for content (text and images) unless stated othe
 
 ## Contributing guidelines
 
-If you want to contribute fixes to this site, you are very welcome to do so. To do this, either add a [bug report under issues](https://github.com/FitzwilliamMuseum/fitz-jekyll-Template/issues) or fork the repository and create a new branch for proposed fixes and then submit a pull request.
+If you want to contribute fixes to this site, you are very welcome to do so. To do this, either add a [bug report under issues](https://github.com/FitzwilliamMuseum/fitz-vive-la-difference/issues) or fork the repository and create a new branch for proposed fixes and then submit a pull request.
