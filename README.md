@@ -4,6 +4,8 @@
 
 This online exhibition has been mounted to complement the Fitzwilliam’s display Vive la différence! The English and French stereotype in satirical prints 1720-1815, Tuesday 20 March 2007 to Sunday 5 August 2007
 
+![Social card for this repo](/images/layouts/vive.jpg)
+
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
