@@ -1,5 +1,7 @@
 # Vive la difference: Fitzwilliam
 
+[![DOI](https://zenodo.org/badge/384546988.svg)](https://zenodo.org/badge/latestdoi/384546988)
+
 This online exhibition has been mounted to complement the Fitzwilliam’s display Vive la différence! The English and French stereotype in satirical prints 1720-1815, Tuesday 20 March 2007 to Sunday 5 August 2007
 
 ## To run locally
